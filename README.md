@@ -83,7 +83,7 @@ wro-rusteze/
 │   └── engineering-journal.md
 ├── t-photos/               # Fotos del equipo
 │   ├── Equipo.jpeg
-│   ├── Eduardo.jpeg
+│   ├── Paco.jpeg
 │   ├── Emi.jpeg
 │   └── Oliver.jpeg
 ├── v-photos/               # ⚠️ Pendiente: fotos del vehículo (6 ángulos)
